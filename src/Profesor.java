@@ -8,6 +8,6 @@ public abstract class Profesor {
 		this.cedula = cedula;
 	}
 
-	public abstract String toString();
+	public abstract String toString(); //hola
 	
 }
