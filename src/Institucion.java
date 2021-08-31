@@ -2,6 +2,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 //jdjdkd
+//LOL
 public class Institucion {
 
 	public static ArrayList<Profesor> profesores = new ArrayList<Profesor>();
